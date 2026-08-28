@@ -1,0 +1,21 @@
+{
+  "name": "bin-generator",
+  "version": "1.0.0",
+  "description": "A functional BIN (Bank Identification Number) generator with validation and bank information",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "bin",
+    "generator",
+    "bank",
+    "identification",
+    "number",
+    "validation",
+    "luhn"
+  ],
+  "author": "",
+  "license": "MIT"
+}
